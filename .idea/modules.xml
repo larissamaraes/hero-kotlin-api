@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hero-kotlin-api.iml" filepath="$PROJECT_DIR$/hero-kotlin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero-kotlin-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hero-kotlin-api_main.iml" group="hero-kotlin-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hero-kotlin-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hero-kotlin-api_test.iml" group="hero-kotlin-api" />
+    </modules>
+  </component>
+</project>

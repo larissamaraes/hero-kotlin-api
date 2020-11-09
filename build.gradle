@@ -43,6 +43,8 @@ repositories {
 
 
 dependencies {
+	compile group: 'org.springframework.boot', name: 'spring-boot-starter-jdbc', version: '2.0.5.RELEASE'
+	compile group: 'org.postgresql', name: 'postgresql', version: '9.4-1201-jdbc41'
 	implementation('org.springframework.boot:spring-boot-starter-data-jpa')
 	implementation('org.springframework.boot:spring-boot-starter-web')
 	implementation('com.fasterxml.jackson.module:jackson-module-kotlin')
